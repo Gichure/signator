@@ -2,7 +2,7 @@
 This plugin adds a sign off message at the foot of every post and allows your readers to buy you coffee. This saves you time to keep on repeating the foot note and enterring your BMC account link.
 
 ### How to Install
-1.  Download the plugin [here](lib/signator.zip)  
+1.  Download the plugin [here](https://github.com/gichure/signator/releases/tag/1.0.0)  
 2.  Place the dowloaded zip file on your file system.  
 3.  Browse to the Plugins area of your wordpress site
 4.  Click on "Add New" button
